@@ -1,0 +1,15 @@
+{
+  "author": "Michael Nachbaur",
+  "name": "oauth2orize-reverse-oauth-bearer",
+  "description": "Reverse OAuth OAuth2 assertion exchange",
+  "version": "0.0.1",
+  "main": "./server",
+  "private": true,
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/NachoMan/oauth2orize-reverse-oauth-bearer.git"
+  },
+  "dependencies" : {
+      "pkginfo":"*"
+  }
+}
